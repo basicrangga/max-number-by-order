@@ -18,7 +18,7 @@ php index.php
 Jalankan unit testing apabial diperlukan
 ```
 phpunit --filter methodName
-phpunit --filter testCalculate 
+phpunit --filter testCalculate tests\TDDCase.php
 ```
 
 ## How to
